@@ -13,7 +13,8 @@
 
 - 📈 AI enthusiast.
 
-- ❤️ I love cats and writing code.
+
+- :heart_eyes_cat: I love cats.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -31,6 +32,14 @@
 ## **Github Stats**
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BFCmath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dai's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFCmath&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+## Toy projects 🚀
++ My first project in university: [Caro pygame](https://github.com/BFCmath/PYGAME_NMCNTT_LT_HK1)
++ Random web project: [Parking management](https://parking-management-web-user.vercel.app/) (the server is down)
++ Simple application of Gradient Descent: [GD for Geometric median](https://github.com/BFCmath/GD-for-Geometric-median)
++ Simple application of YOLO: [Car Count](https://github.com/BFCmath/CarCount)
++ Random web crawler project: [DictionaryCrawler](https://github.com/BFCmath/DictionaryCrawler)
 
 ## Wanna try some bad-graphic games?
 Check my profile [here](https://bfc-2005.itch.io).
